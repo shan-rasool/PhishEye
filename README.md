@@ -30,7 +30,7 @@
 
 ## 📸 Demo
 
-<img src="screenshot.png" alt="PhishEye CLI Screenshot" width="100%">
+<img src="https://github.com/shan-rasool/PhishEye/blob/main/PhishEye.png" alt="PhishEye CLI Screenshot" width="100%">
 
 ---
 
